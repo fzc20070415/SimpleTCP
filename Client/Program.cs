@@ -50,7 +50,7 @@ namespace Client
 
             Task[] taskList = new Task[] {
                 SendMessageThroughTCP(1, "5|Message 1 sent"),
-                SendMessageThroughTCP(2, "6|ssage 2 sent"),
+                SendMessageThroughTCP(2, "6|Message 2 sent"),
                 SendMessageThroughTCP(3, "1|Message 3 sent"),
                 SendMessageThroughTCP(4, "5|Message 4 sent"),
                 SendMessageThroughTCP(5, "3|Message 5 sent"),
